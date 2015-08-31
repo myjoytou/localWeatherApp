@@ -1,0 +1,71 @@
+body {
+  text-align: center;
+  background: url("https://upload.wikimedia.org/wikipedia/commons/c/c4/Village_in_caprivi_flood_plain.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+h1 {
+  color: #862308;
+  font-size: 50px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  text-shadow: -2px 2px 5px #860000;
+}
+#toggle-metric {
+  margin: auto;
+  background: inherit;
+  height: auto;
+  width: 200px;
+}
+div#weather-image {
+  display: inline-block;
+  margin-right: 5px;
+}
+div#temp {
+  display: inline-block;
+  color: #2121fa;  
+  font-weight: 700;
+  font-size: 20px;
+}
+#city-state {
+  box-shadow: -5px 5px 9px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 4;
+  height: 80px;
+  width: auto;
+  padding: 0 10px 0 10px;
+  margin-right: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.8);
+  font-weight: 500px;
+  font-size: 20px;
+}
+#weather {
+   box-shadow: -5px 5px 9px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 4;
+  height: 80px;
+  width: auto;
+  padding: 0 10px 0 10px;
+  margin-right: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.8);
+  font-weight: 500px;
+  font-size: 20px;
+}
+#wind-speed-wind-direction {
+  box-shadow: -5px 5px 9px;
+  border-radius: 10px;
+  display: inline-block;
+  line-height: 4;
+  height: 80px;
+  width: auto;
+  padding: 0 10px 0 10px;
+  margin-right: 5px;
+  color: black;
+  background: rgba(255, 255, 255, 0.8);
+  font-weight: 500px;
+  font-size: 20px;
+}
